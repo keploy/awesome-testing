@@ -405,7 +405,7 @@ Bifrost AI: Quickly and easily generate diverse and realistic synthetic data and
 Datagen AI: Write your own code to test and train your models by generating the exact synthetic data you need.
 
  ## Gaming
-Charisma : Charisma is an easy-to-use platform to create believable and lifelike characters.
-Hidden Door : A customizable virtual event platform offering immersive experiences for businesses and organizations.
-Latitude : Latitude creates AI-powered worlds for entertainment and exploration, advancing technology and shared discovery.
-Spellbrush : A digital art studio creating unique, dreamlike visuals using algorithmic techniques and AI
+-[Charisma] : Charisma is an easy-to-use platform to create believable and lifelike characters.
+-[Hidden Door] : A customizable virtual event platform offering immersive experiences for businesses and organizations.
+-[Latitude] : Latitude creates AI-powered worlds for entertainment and exploration, advancing technology and shared discovery.
+-[Spellbrush] : A digital art studio creating unique, dreamlike visuals using algorithmic techniques and AI
