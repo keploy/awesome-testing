@@ -205,206 +205,82 @@ AI, or Artificial Intelligence, is a transformative technology that enables mach
   [OpenAI Cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API.
 
 ## Natural Language Processing
-OpenAI's GPT Playground: A web-based platform that allows users to experiment with GPT models and generate text samples.
-Hugging Face: A website that offers access to pre-trained models including GPT-2 and GPT-3, as well as tools for fine-tuning and deploying these models.
-EleutherAI: A community-driven organization that is working to create an open-source alternative to GPT-3, called GPT-Neo.
-InferKit: An AI-powered writing tool that uses GPT-2 to generate text based on user prompts.
-Copy.ai: A writing assistant that uses GPT-3 to help users generate content such as ads, emails, and social media posts.
-Talk to Transformer: A website that uses GPT-2 to generate text based on user prompts.
-Microsoft Visual ChatGPT: A tool for building conversational agents with natural language processing and machine learning capabilities.
-YetOne/OpenAI Translator: An open-source tool that uses GPT models to translate text between multiple languages
-Chanzhaoyu/ChatGPT-Web: A web-based application that generates human-like responses to user input using GPT models.
-Lencx/ChatGPT: An open-source tool that allows users to train their own GPT models for generating human-like text responses.
-DDiu8081/ChatGPT-Demo: An application that generates text-based responses using GPT models for conversational agents.
-Kaixindelele/ChatPaper: An open-source tool that generates long-form text responses to user input using GPT models.
-JosStorer/ChatGPTBox: An application that generates text-based responses using GPT models for conversational agents.
-Zhayujie/ChatGPT-on-WeChat: An application that generates text-based responses using GPT models for conversational agents.
-YetOne/Bob-Plugin-OpenAI-Translator: A Bob plugin that provides a CLI for using GPT models to translate text between multiple languages.
-Vincelwt/ChatGPT-Mac: A macOS application that generates text-based responses using GPT models for conversational agents.
-Mpociot/ChatGPT-VSCode: A VSCode extension that provides a chat window for generating text-based responses using GPT models.
-M1guelpf/ChatGPT-Telegram: A Telegram bot that generates text-based responses using GPT models for conversational agents.
-Genei: NLP tool for document analysis, data extraction, and translation.
-Tymely: An AI that supports customer service tickets much better than real agents
-Lang: An AI-powered platform that provides natural language processing solutions for customer service and conversational analytics.
-Poly AI: AI-powered conversational platform that provides businesses with scalable and personalized customer service solutions.
-Incentivai: Incentivai is using machine learning and human-like AI agents to simulate and test mechanism design of complex systems such as blockchain smart contract economies.
-Kasisto: An AI-powered digital assistant that helps financial institutions deliver personalized banking experiences to their customers.
-Elise AI: An AI-powered marketing assistant that helps businesses generate content, run ads, and optimize campaigns.
-Verloop: A conversational AI platform that enables businesses to automate customer support, sales, and marketing interactions through chatbots.
-Ultimate: A conversational AI platform that helps businesses automate customer service, sales, and support with its advanced AI technology.
-Ada: An AI-powered chatbot platform that enables businesses to automate customer support and engage with customers in a personalized way.
-Sapling: An AI-powered HR platform that automates tasks such as onboarding, training, and employee engagement for organizations.
-Balto: A real-time call guidance software that helps sales and support reps optimize conversations and improve customer experience.
-Observe: An AI-powered platform that provides insights and analytics for call centers to improve customer experience and agent performance.
-Haptik: An AI-powered conversational platform that offers chatbot and voicebot solutions for businesses and customer support.
-Forehthought AI: An AI-powered platform that uses natural language processing to improve customer support and communication workflows.
-Zubtitle: AI-powered video transcription and captioning tool that uses advanced algorithms to create accurate and time-synchronized subtitles.
-Terra: An AI-powered marketing assistant that helps businesses generate content, run ads, and optimize campaigns.
-Peech AI: An AI-powered platform that offers real-time voice transcription and analysis for businesses and individuals.
-Vochi AI: An video editing app that uses AI-powered filters and effects to create stunning and unique videos.
-Maverick AI: A startup that provides AI-powered solutions for the financial industry, including risk management and investment strategies.
-Recut AI: A video editing platform that offers simple and affordable tools for creating engaging video content for social media.
-Bosch AI: It offers a range of AI solutions and services for businesses, including machine learning, computer vision, and natural language processing.
-Inworld AI: An AI-powered virtual event platform that offers immersive and interactive experiences for virtual events and conferences.
-Wombo AI: An app that uses AI to create singing videos with a user's selfie image. It's popular on social media.
-TavusIO: A platform for creating AI-powered chatbots with customizable templates, integrations, and analytics to improve customer experience.
-RunwayML : A platform for creating and deploying machine learning models in various fields such as art, music, and fashion.
-Moveo : An AI-powered platform for automating HR processes, such as recruitment, onboarding, and performance management for businesses.
-Pictory : An AI-powered platform that automates the process of creating engaging and personalized videos for social media marketing.
-Yepic : A platform that uses AI to automate the process of creating and optimizing social media ads for businesses.
-Steve AI : An AI-powered platform that automates employee expense management, saving businesses time and money.
-Metaphysic : An AI-powered platform that helps businesses optimize their marketing efforts and improve customer engagement through data analysis.
-Colossyan : Create videos with AI actors - stop spending your time on studios
-Windsor : A marketing intelligence platform that offers AI-powered insights and optimization for advertising campaigns across multiple channels.
-Sembly : A platform that provides real-time insights and analytics for virtual events, conferences, and webinars.
-Xembly : A library for transforming XML documents. It uses a simple, declarative language to specify the transformations.
-Steve : A chatbot for Slack that automates administrative tasks and provides data analytics and insights to improve workplace productivity.
-Lumen5 : A video creation platform that uses AI to transform written content into engaging videos with ease.
-Murf AI: An intelligent software platform designed for asset management, investment analytics, and financial data visualization for institutional investors.
-Replika AI: An AI-powered chatbot designed to learn from human interactions and provide personalized conversation, emotional support, and companionship.
-Notably AI: An AI-powered platform that offers data preparation, cleaning, and labeling tools for machine learning and data science.
-Endel AI: An AI-powered app that creates personalized soundscapes to enhance focus, relaxation, and sleep. It uses machine learning and natural sounds.
-Wellsaid AI: An artificial intelligence text-to-speech platform that is used to create natural-sounding voices for various applications.
-AssemblyAI: An AI-powered speech recognition and transcription service that accurately converts audio and video into text for various industries.
-Deepgram AI: An AI-powered speech recognition platform that enables businesses to transcribe, search, and analyze audio and video content.
-Krisp AI: An AI-powered noise-canceling app that mutes background noise during calls, enhancing audio quality and improving communication.
-Speechify AI: An AI-powered text-to-speech app that converts written content into spoken audio, improving accessibility and productivity.
-Resemble.AI: An AI-powered platform that uses deep learning to create synthetic voices and generate human-like speech for various applications.
-Aimi AI: An AI-powered virtual assistant that uses natural language processing to provide personalized support and assistance.
-Kaizan AI: An AI-powered platform that leverages machine learning algorithms to optimize business processes, increase efficiency, and reduce costs.
-Coqui AI: An AI-powered platform for machine learning and natural language processing, designed to automate complex business processes.
-Mubert AI: An AI-powered music streaming service that generates original, royalty-free music in real-time using machine learning algorithms.
-Neural Space AI: An AI-powered platform that uses neural networks to create intelligent and intuitive experiences for users.
-Soundful AI: An AI-powered technology that enhances audio quality, enabling clearer communication, improved speech recognition, and better audio processing.
-Moises AI: An AI-powered platform for music producers and sound engineers that offers advanced audio processing and editing capabilities.
-Voicemod AI: An AI-powered voice modulation tool that allows users to transform their voices in real-time for creative expression.
-Listnr AI: An AI-powered platform that uses natural language processing to analyze and extract insights from audio and video content.
-Lovo AI: An AI-powered platform that offers human-like voiceovers and text-to-speech solutions for various industries and applications.
-Vocal Clarity AI: An AI-powered tool that enhances the clarity and quality of human speech for better communication.
-Dubverse AI: An AI-powered platform for audio production, offering advanced tools for music creation, mixing, mastering, and more.
-Ad Auris AI: An AI-powered platform that offers speech analytics, sentiment analysis, and voice biometrics for customer engagement and compliance.
 
-## Voice Recognition and AI Frameworks
-Jasper: An open-source platform that helps create custom voice-controlled applications for smart devices.
-ChibiAI: An open-source lightweight artificial intelligence framework for embedded devices, focused on voice and image recognition.
-
-## Marketing and Business Tools
-Copysmith: An AI-powered tool that generates unique and creative marketing copy for businesses.
-Viable: A product feedback management tool that helps teams prioritize feedback, track progress, and communicate with customers.
-Algolia: A search-as-a-service platform that provides real-time search results with typo-tolerance and synonym matching.
-Sapling: An AI-powered platform that automates HR tasks such as onboarding, training, and employee engagement.
-Writesonic: An AI-powered tool that generates blog posts, product descriptions, and other types of content for businesses.
-ActiveChat: A conversational AI platform that allows businesses to create chatbots for websites, apps, and messaging platforms.
-JarvisLabs.ai: A virtual writing assistant that uses AI to suggest improvements to writing style, grammar, and syntax.
-Smartwriter.ai: An AI-powered writing assistant that suggests improvements to writing style, tone, and structure.
-Hypertype: An AI-powered engine to fetch you the most relevant information from your emails and documents.
-Lately: An AI-powered content repurposing engine and a social media management, employee advocacy and sales enablement syndication platform.
-Autobound: An AI-powered engine that generates highly personalized sales emails and email openers in a single click, based on news events, job changes, shared experiences, and more.
-Creatext: Creatext builds customized AI solutions for you to reach the right customers with the right message at the right time.
-Mavenoid: Mavenoid is a powerful tool for businesses that want to improve customer support and streamline the troubleshooting process.
-Persado: Persado uses AI to create emotionally targeted marketing content for improved engagement and ROI.
-Frase: Frase saves you from hours of SERP research by analyzing, dissecting, and centralizing the internet’s best content in one place.
-Mutiny AI: B2B SaaS platform for AI-powered website personalization and engagement.
-
-## Observability and Development Tools
-Zebrium: An observability platform that uses machine learning to automatically detect and diagnose software issues in real-time.
-Debuild: A tool that simplifies the creation and management of Debian packages for software projects.
-Tabulate: A Python library for creating tables in terminal environments with ASCII art borders and alignment.
-SeekWell: A tool that enables users to create, edit, and schedule SQL queries in Google Sheets, without leaving the spreadsheet.
-Tabnine: AI-powered code autocompletion tool for multiple programming languages, integrated with various code editors.
-Codiga: Codiga analyzes each pull request, flags any code violations, duplicate, long or complex function.
-Locofy: Locofy is one of the few tools which actually generates code using UI kits components rather than nested divs.
-AiXcoder: AiXcoder is a powerful code completer & code search engine based on state-of-the-art deep learning technology.
-Mintlify: Build the documentation you've always wanted. Beautiful out of the box, easy to maintain, and optimized for user engagement.
-Mutable Ai: Create high quality code effortlessly Prototype with AI Autocomplete. Transform to production quality code with AI
-Codis: Codis allows developers and engineering teams to easily convert designs into re-usable Flutter components in order to accelerate and reduce the cost of app development.
-Durable: Durable: AI Website Builder and service business software The world's fastest website builder.
-The. com: The.com is a website automation platform for generating web pages and websites at scale.
-Enzyme: From words to website. In seconds. Turn words into websites.
-Bloop: Built in Rust, bloop is the fastest way to find code, identifiers, paths and repos with regex.
-Replit: The world’s first in-IDE developer AI chat
-Anima: AI companion that cares. Have a friendly chat, roleplay, grow your communication and relationship skills.
-Codacy: Codacy is flexible and adapts to your code review process. Push results as comments in your pull requests or as notifications on Slack
-Warp Ai: Warp AI is an AI-powered assistant that’s integrated within the Warp terminal.This feature sends input data to OpenAI servers through their API and is explicitly opt-in.
-Metabob: Generative AI for refactoring and debugging code
-Slai: Slai is a self-serve machine learning platform. Instantly connect data sources, train models on GPUs, and deploy to APIs in minutes
-Jina AI: Jina is an MLOps framework to build multimodal AI services and pipelines then serve, scale and deploy them to a production-ready environment like Kubernetes or Jina AI Cloud.
-Symbl.ai: Symbl.ai’s Human Intelligence Platform empowers your people with real-time engagement, predictive experiences and continuous learning during virtual conversations, including sales, customer service, human resources and employee communications.
-Adept: Adept is an ML research and product lab building general intelligence by enabling humans and computers to work together creatively.
-Aporia: “With Aporia’s customizable ML monitoring, data science teams can easily build ML monitoring that fits their unique models and use cases.
-Gantry : Gantry helps us tackle the complexity of understanding how models are performing in production in a B2B AI company, and what that means for our customers.
-Deepset: An open source NLP framework to help you build production ready search systems or applications powered by various NLP tasks such as Question Answering.
-Archistar: Archistar revolutionises the way property professionals find, assess and design sites. Transform your months’ long process into ten minutes of simple site analysis.
-Galileo AI: Galileo AI creates delightful, editable UI designs from a simple text description. It empowers you to design faster than ever.
-Glean AI : Glean AI has greatly simplified our vendor budgeting and bill pay processes.
-
-## AI-powered Text Generation
-AI Dungeon:A text-based adventure game that uses GPT-3 to generate game content and responses to player inputs.
-Madawei2699/MyGPTReader: An open-source tool that uses GPT models to generate summaries of long-form text, such as articles or documents.
-Yihong0618/Xiaogpt : An open-source tool that uses GPT models to generate text-based responses to user input for conversational agents.
-Leizhenpeng/Feishu-ChatGPT: A Feishu app that generates text-based responses using GPT models for conversational agents.
-Fuergaosi233/WeChat-ChatGPT: A WeChat mini-program that generates text-based responses using GPT models for conversational agents.
-Wong2/ChatGPT-Google-Extension: A browser extension that generates text-based responses using GPT models for Google Chat.
-Vincelwt/ChatGPT-Mac:A macOS application that generates text-based responses using GPT models for conversational agents.
-Mpociot/ChatGPT-VSCode: A VSCode extension that provides a chat window for generating text-based responses using GPT models.
-M1guelpf/ChatGPT-Telegram: A Telegram bot that generates text-based responses using GPT models for conversational agents.
-Gragland/ChatGPT-Chrome-Extension:A browser extension that generates text-based responses using GPT models for Facebook Messenger.
-Headline: An AI-powered tool that generates attention-grabbing headlines for blog posts and articles.
-Anyword: An AI-powered tool that generates creative and catchy taglines, slogans, and headlines for businesses.
-Headlime: AI copywriting tool that generates headlines and article summaries based on user input.
-Promptheus: Generate text in your browser with OpenAI's GPT-3 model.
-ChatGPT for Google : Use GPT-3 to write emails, create calendar events, and more in Google Workspace.
-YouTube Summarizer with ChatGPT : Automatically summarize YouTube videos using GPT-3.
-BFF : Make ChatGPT As Your Friend - Chat with GPT-3 in a friendly, conversational way.
-Robin AI : An AI Tool that helps you create ‘internet assets” like Marketing Copy for your Landing Pages, Websites, Stunning Graphics like Banners, Visuals, Graphics, and more in minutes.
-Merlin : A chatbot powered by GPT-3 that can answer questions, tell jokes, and more.
-God In A Box : A tool that connects with whatsapp using GPT-3.
-Menu GPT : Talk to ChatGPT in your menubar
-Hubble : Start shipping AI apps that move your business forward. Stop pasting text into ChatGPT, wrangling your data to work with AI models, and cobbling tools together to use AI.
-HyperWrite : AI-powered writing assistant that helps improve writing productivity and accuracy.
-Jasper: An AI-powered engine to High Quality Copy For Emails, Ads, Websites, Listings, Blogs & More.
-AI21: Deep learning platform for natural language content generation.
-Jenni: Jenni is currently the most advanced writing system. We use a combination of our own in-house AI systems, GPT4 and ChatGPT.
-Regie.ai: Write sequences in minutes and personalize prospecting emails in seconds using Regie.ai.
-Linguix AI: Writing assistant for grammar, style, and tone improvements, integrated with various writing tools.
-OtherSideAI: AI-powered email automation platform for efficient and personalized email responses.
-Compose AI: Compose AI is a Chrome extension that cuts your writing time by 40% with AI-powered autocompletion & text generation.
-
-## AI-powered Applications
-Casetext: A legal research platform that uses AI to provide relevant case law, statutes, and regulations to lawyers.
-Magic Sales Bot : An AI-powered sales chatbot that engages with prospects, qualifies leads, and schedules meetings.
-Quickchat : A chatbot-building platform that allows businesses to create custom chatbots for customer support, sales, and marketing.
-McKayWrigley/Chatbot-UI-Pro : A UI toolkit for building conversational agents with GPT models, designed for use with React.
-Replier.ai : AI chatbot builder for businesses to create conversational experiences for customers.
-Dall-E 2 : AI language model trained by OpenAI to generate unique images from textual descriptions.
-Epsilon Code : AI-powered code autocompletion and error detection tool for developers.
-GPT-3 Tailwind CSS : A Tailwind CSS plugin that generates utility classes based on the design styles of GPT-3-generated UIs.
-MessageBird : Cloud communications platform enabling businesses to communicate with customers via SMS, voice, and chat.
-PingCAP/OSSInsight : A web-based application that analyzes open-source projects and provides insights on their contribution metrics and community health.
-ABtesting.ai : AI-powered A/B testing platform for website optimization and conversion rate improvement.
-Fable Studio: A platform that uses AI to transcribe, translate, and caption audio and video content in real-time.
-ZeroGPT : Detect chatGPT content for Free, simple way & High accuracy. OpenAI detection tool.
-Detect GPT : Find out if the pages you browse contain AI-generated content.
-GPTZero : CGPTZero turns the very technologies used to build ChatGPT around — to detect AI.
-Poe : Quora's chatbot including Sage, Dragonfly, ChatGPT & Claude!
-AI CLI : Get answers for CLI commands from GPT3 right from your terminal.
-Bito : Generate Amazing Code/code comments,10x faster with ChatGPT.
-Code Snippets : Turn Your Questions Into Code, with ChatGPT!
-Youchat : YouChat, like every other ChatGPT alternative, is powered by OpenAI's GPT-3.5 AI model.
-Cogram: Cogram uses AI to take notes in virtual meetings, track action items, and automate downstream tasks, while keeping your data private and secure.
-Hebbia : AI tool that simplifies research collaboration and enhances information discovery using NLP
-Consensus : A search engine that uses AI to extract and distill findings directly from scientific research
-Vectara : A LLM-powered search-as-a-service. The platform provides a complete ML search pipeline from extraction and indexing to retrieval, re-ranking and calibration.
-Pilot AI : A tool for sales representatives which automatically turns call recordings into structured information that directly updates the CRM.
-Gretel API : Gretel's APIs automatically fine-tune custom AI models and generate synthetic data that's as good or better than what you already have.
-Syntegra : Syntegra creates accurate, privacy-preserved synthetic data that bridges the gap between your organization’s data privacy and data science needs.
-Data Herald: The first generative AI platform purpose-built for data content Combine GPT with your company data and over 1k+ pre-connected data sources.
-Mirry AI: Improve the return on your AI investments with Mirry's data-centric AI platform.
-Bifrost AI: Quickly and easily generate diverse and realistic synthetic data and high-fidelity 3D worlds to enhance model performance.
-Datagen AI: Write your own code to test and train your models by generating the exact synthetic data you need.
-
- ## Gaming
--[Charisma] : Charisma is an easy-to-use platform to create believable and lifelike characters.
--[Hidden Door] : A customizable virtual event platform offering immersive experiences for businesses and organizations.
--[Latitude] : Latitude creates AI-powered worlds for entertainment and exploration, advancing technology and shared discovery.
--[Spellbrush] : A digital art studio creating unique, dreamlike visuals using algorithmic techniques and AI
+1. <a href="https://chat.openai.com/chat#:~:text=https%3A//beta.openai.com/playground/">OpenAI's GPT Playground</a>: A web-based platform that allows users to experiment with GPT models and generate text samples.
+2. <a href="https://huggingface.co/">Hugging Face</a>: A website that offers access to pre-trained models including GPT-2 and GPT-3, as well as tools for fine-tuning and deploying these models.
+3. <a href="https://www.eleuther.ai/">EleutherAI</a>: A community-driven organization that is working to create an open-source alternative to GPT-3, called GPT-Neo.
+4. <a href="https://inferkit.com/">InferKit</a>: An AI-powered writing tool that uses GPT-2 to generate text based on user prompts.
+5. <a href="https://www.copy.ai/">Copy.ai</a>: A writing assistant that uses GPT-3 to help users generate content such as ads, emails, and social media posts.
+6. <a href="https://talktotransformer.com/">Talk to Transformer</a>: A website that uses GPT-2 to generate text based on user prompts.
+7. <a href="https://replika.ai/">Microsoft Visual ChatGPT</a>: A tool for building conversational agents with natural language processing and machine learning capabilities.
+8. <a href="https://github.com/yetone/openai-translator/">YetOne/OpenAI Translator</a>: An open-source tool that uses GPT models to translate text between multiple languages
+9. <a href="https://github.com/Chanzhaoyu/chatgpt-web">Chanzhaoyu/ChatGPT-Web</a>: A web-based application that generates human-like responses to user input using GPT models.
+10. <a href="https://github.com/Lencx/ChatGPT/">Lencx/ChatGPT</a>: An open-source tool that allows users to train their own GPT models for generating human-like text responses.
+11. <a href="https://github.com/DDiu8081/ChatGPT-Demo/">DDiu8081/ChatGPT-Demo</a>: An application that generates text-based responses using GPT models for conversational agents.
+12. <a href="https://github.com/Kaixindelele/ChatPaper">Kaixindelele/ChatPaper</a>: An open-source tool that generates long-form text responses to user input using GPT models.
+13. <a href="https://github.com/DDiu8081/ChatGPT-Demo/">JosStorer/ChatGPTBox</a>: An application that generates text-based responses using GPT models for conversational agents.
+14. <a href="https://github.com/zhayujie/ChatGPT-on-WeChat">Zhayujie/ChatGPT-on-WeChat</a>: An application that generates text-based responses using GPT models for conversational agents.
+15. <a href="https://github.com/Yet-One-Yet-One/Bob-Plugin-OpenAI-Translator">YetOne/Bob-Plugin-OpenAI-Translator</a>: A Bob plugin that provides a CLI for using GPT models to translate text between multiple languages.
+16. <a href="https://github.com/vincelwt/ChatGPT-Mac/">Vincelwt/ChatGPT-Mac</a>: A macOS application that generates text-based responses using GPT models for conversational agents.
+17. <a href="https://github.com/mpociot/chatgpt-vscode">Mpociot/ChatGPT-VSCode</a>: A VSCode extension that provides a chat window for generating text-based responses using GPT models.
+18. <a href="https://t.me/gpt_chatbot">M1guelpf/ChatGPT-Telegram</a>: A Telegram bot that generates text-based responses using GPT models for conversational agents.
+19. <a href="https://www.genei.io/">Genei</a>: NLP tool for document analysis, data extraction, and translation.
+19. <a href="https://www.tymely.ai/">Tymely</a>: An AI that supports customer service tickets much better than real agents
+19. <a href="https://www.lang.ai/">Lang</a>: An AI-powered platform that provides natural language processing solutions for customer service and conversational analytics.
+19. <a href="https://poly.ai/">Poly AI</a>: AI-powered conversational platform that provides businesses with scalable and personalized customer service solutions.
+19. <a href="https://www.incentivai.co/?ref=Welcome.AI">Incentivai</a>: Incentivai is using machine learning and human-like AI agents to simulate and test mechanism design of complex systems such as blockchain smart contract economies.
+19. <a href="https://kasisto.com/">Kasisto</a>: An AI-powered digital assistant that helps financial institutions deliver personalized banking experiences to their customers.
+19. <a href="https://www.eliseai.com/">Elise AI</a>: An AI-powered marketing assistant that helps businesses generate content, run ads, and optimize campaigns.
+19. <a href="https://verloop.io/">Verloop</a>: A conversational AI platform that enables businesses to automate customer support, sales, and marketing interactions through chatbots.
+19. <a href="https://www.ultimate.ai/">Ultimate</a>: A conversational AI platform that helps businesses automate customer service, sales, and support with its advanced AI technology.
+19. <a href="https://www.ada.cx/">Ada</a>: An AI-powered chatbot platform that enables businesses to automate customer support and engage with customers in a personalized way.
+19. <a href="https://sapling.ai/">Sapling</a>: An AI-powered HR platform that automates tasks such as onboarding, training, and employee engagement for organizations.
+19. <a href="https://www.balto.ai/">Balto</a>: A real-time call guidance software that helps sales and support reps optimize conversations and improve customer experience.
+19. <a href="https://www.observe.ai/">Observe</a>: An AI-powered platform that provides insights and analytics for call centers to improve customer experience and agent performance.
+19. <a href="https://www.haptik.ai/">Haptik</a>: An AI-powered conversational platform that offers chatbot and voicebot solutions for businesses and customer support.
+19. <a href="https://forethought.ai/">Forehthought AI</a>: An AI-powered platform that uses natural language processing to improve customer support and communication workflows.
+19. <a href="https://zubtitle.com/">Zubtitle</a>: AI-powered video transcription and captioning tool that uses advanced algorithms to create accurate and time-synchronized subtitles.
+19. <a href="https://terra.bio/">Terra</a>: An AI-powered marketing assistant that helps businesses generate content, run ads, and optimize campaigns.
+19. <a href="https://www.peech-ai.com/">Peech AI</a>: An AI-powered platform that offers real-time voice transcription and analysis for businesses and individuals.
+19. <a href="https://vochi.com/">Vochi AI</a>: An video editing app that uses AI-powered filters and effects to create stunning and unique videos.
+19. <a href="https://www.maverickai.com/">Maverick AI</a>: A startup that provides AI-powered solutions for the financial industry, including risk management and investment strategies.
+19. <a href="https://getrecut.com/">Recut AI</a>: A video editing platform that offers simple and affordable tools for creating engaging video content for social media.
+19. <a href="https://www.bosch-ai.com/">Bosch AI</a>: It offers a range of AI solutions and services for businesses, including machine learning, computer vision, and natural language processing.
+19. <a href="https://www.inworld.ai/">Inworld AI</a>: An AI-powered virtual event platform that offers immersive and interactive experiences for virtual events and conferences.
+19. <a href="https://www.wombo.ai/">Wombo AI</a>: An app that uses AI to create singing videos with a user's selfie image. It's popular on social media.
+19. <a href="https://www.tavus.io/">TavusIO</a>: A platform for creating AI-powered chatbots with customizable templates, integrations, and analytics to improve customer experience.
+19. <a href="https://runwayml.com/">RunwayML </a>: A platform for creating and deploying machine learning models in various fields such as art, music, and fashion.
+19. <a href="https://moveo.ai/">Moveo </a>: An AI-powered platform for automating HR processes, such as recruitment, onboarding, and performance management for businesses.
+19. <a href="https://pictory.ai/">Pictory </a>: An AI-powered platform that automates the process of creating engaging and personalized videos for social media marketing.
+19. <a href="https://www.yepic.ai/">Yepic </a>: A platform that uses AI to automate the process of creating and optimizing social media ads for businesses.
+19. <a href="https://www.steve.ai/">Steve AI </a>: An AI-powered platform that automates employee expense management, saving businesses time and money.
+19. <a href="https://metaphysic.ai/">Metaphysic </a>: An AI-powered platform that helps businesses optimize their marketing efforts and improve customer engagement through data analysis.
+19. <a href="https://www.colossyan.com/">Colossyan </a>: Create videos with AI actors - stop spending your time on studios
+19. <a href="https://windsor.ai/">Windsor </a>: A marketing intelligence platform that offers AI-powered insights and optimization for advertising campaigns across multiple channels.
+19. <a href="https://www.sembly.ai/">Sembly </a>: A platform that provides real-time insights and analytics for virtual events, conferences, and webinars.
+19. <a href="https://www.xembly.com/">Xembly </a>: A library for transforming XML documents. It uses a simple, declarative language to specify the transformations.
+19. <a href="https://www.steve.ai/">Steve </a>: A chatbot for Slack that automates administrative tasks and provides data analytics and insights to improve workplace productivity.
+19. <a href="https://lumen5.com/">Lumen5 </a>: A video creation platform that uses AI to transform written content into engaging videos with ease.
+19. <a href="https://murf.ai/">Murf AI</a>: An intelligent software platform designed for asset management, investment analytics, and financial data visualization for institutional investors.
+20. <a href="https://replika.com/">Replika AI</a>: An AI-powered chatbot designed to learn from human interactions and provide personalized conversation, emotional support, and companionship.
+21. <a href="https://www.notably.ai/">Notably AI</a>: An AI-powered platform that offers data preparation, cleaning, and labeling tools for machine learning and data science.
+22. <a href="https://endel.io/">Endel AI</a>: An AI-powered app that creates personalized soundscapes to enhance focus, relaxation, and sleep. It uses machine learning and natural sounds.
+23. <a href="https://wellsaidlabs.com/">Wellsaid AI</a>: An artificial intelligence text-to-speech platform that is used to create natural-sounding voices for various applications.
+24. <a href="https://www.assemblyai.com/">AssemblyAI</a>: An AI-powered speech recognition and transcription service that accurately converts audio and video into text for various industries.
+25. <a href="https://deepgram.com/">Deepgram AI</a>: An AI-powered speech recognition platform that enables businesses to transcribe, search, and analyze audio and video content.
+26. <a href="https://krisp.ai/">Krisp AI</a>: An AI-powered noise-canceling app that mutes background noise during calls, enhancing audio quality and improving communication.
+27. <a href="https://speechify.com/">Speechify AI</a>: An AI-powered text-to-speech app that converts written content into spoken audio, improving accessibility and productivity.
+28. <a href="https://www.resemble.ai/">Resemble.AI</a>: An AI-powered platform that uses deep learning to create synthetic voices and generate human-like speech for various applications.
+29. <a href="https://www.aimi.fm/">Aimi AI</a>: An AI-powered virtual assistant that uses natural language processing to provide personalized support and assistance.
+30. <a href="https://kaizan.ai/">Kaizan AI</a>: An AI-powered platform that leverages machine learning algorithms to optimize business processes, increase efficiency, and reduce costs.
+31. <a href="https://coqui.ai/">Coqui AI</a>: An AI-powered platform for machine learning and natural language processing, designed to automate complex business processes.
+32. <a href="https://mubert.com/">Mubert AI</a>: An AI-powered music streaming service that generates original, royalty-free music in real-time using machine learning algorithms.
+33. <a href="https://www.neuralspace.ai/">Neural Space AI</a>: An AI-powered platform that uses neural networks to create intelligent and intuitive experiences for users.
+34. <a href="https://soundful.com/">Soundful AI</a>: An AI-powered technology that enhances audio quality, enabling clearer communication, improved speech recognition, and better audio processing.
+35. <a href="https://moises.ai/">Moises AI</a>: An AI-powered platform for music producers and sound engineers that offers advanced audio processing and editing capabilities.
+36. <a href="https://www.voicemod.net/ai-voices/">Voicemod AI</a>: An AI-powered voice modulation tool that allows users to transform their voices in real-time for creative expression.
+37. <a href="https://www.listnr.tech/">Listnr AI</a>: An AI-powered platform that uses natural language processing to analyze and extract insights from audio and video content.
+38. <a href="https://lovo.ai/">Lovo AI</a>: An AI-powered platform that offers human-like voiceovers and text-to-speech solutions for various industries and applications.
+39. <a href="https://www.vocalclarity.ai/">Vocal Clarity AI</a>: An AI-powered tool that enhances the clarity and quality of human speech for better communication.
+40. <a href="https://dubverse.ai/">Dubverse AI</a>: An AI-powered platform for audio production, offering advanced tools for music creation, mixing, mastering, and more.
+41. <a href="https://www.ad-auris.com/">Ad Auris AI</a>: An AI-powered platform that offers speech analytics, sentiment analysis, and voice biometrics for customer engagement and compliance.
