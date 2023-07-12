@@ -12,7 +12,6 @@ AI, or Artificial Intelligence, is a transformative technology that enables mach
 - [Other](#other)
 - [Learning resources](#learning-resources)
 - [Natural Language Processing](#natural-language-processing)
-- [Voice Recognition and AI Frameworks](#voice-recognition-and-AI Frameworks)
 - [Marketing and Business Tools](#marketing-and-business-tools)
 - [Observability and Development Tools](#observability-and-development-tools)
 - [AI-powered Text Generation](#AI-powered-text-generation)
