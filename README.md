@@ -16,7 +16,7 @@ AI, or Artificial Intelligence, is a transformative technology that enables mach
 - [Observability and Development Tools](#observability-and-development-tools)
 - [AI-powered Text Generation](#AI-powered-text-generation)
 - [AI-powered Applications](#AI-powered-applications)
-- [Gaming](#gaming)
+
 
 ## Text
 
@@ -120,6 +120,7 @@ AI, or Artificial Intelligence, is a transformative technology that enables mach
 - [MutableAI](https://mutable.ai/) - AI Accelerated Software Development.
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API.
 - [TurboPilot](https://github.com/ravenscroftj/turbopilot) - A self-hosted copilot clone which uses the library behind llama.cpp to run the 6 Billion Parameter Salesforce Codegen model in 4GiB of RAM. 
+- [Keploy](https://keploy.io/) - Keploy is AI based test case and stubs/mocks generator for e2e testing. 90% test coverage in minutes with open source testing tool.
 
 ## Image
 
@@ -410,11 +411,4 @@ AI, or Artificial Intelligence, is a transformative technology that enables mach
 75. <a href="https://datagen.tech/">Datagen AI</a>:  Write your own code to test and train your models by generating the exact synthetic data you need.
 
 
-
-## Gaming
-
-75. <a href="https://charisma.ai/">Charisma </a>: Charisma is an easy-to-use platform to create believable and lifelike characters.
-75. <a href="https://www.hiddendoor.co/">Hidden Door </a>: A customizable virtual event platform offering immersive experiences for businesses and organizations.
-75. <a href="https://latitude.io/">Latitude </a>: Latitude creates AI-powered worlds for entertainment and exploration, advancing technology and shared discovery.
-75. <a href="https://spellbrush.com/">Spellbrush </a>: A digital art studio creating unique, dreamlike visuals using algorithmic techniques and AI.
 
