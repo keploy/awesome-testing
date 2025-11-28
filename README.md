@@ -44,9 +44,10 @@ Have questions? Join us over [Slack](https://join.slack.com/t/keploy/shared_invi
 
 | Sr No | Tool Name |  Description with URL |
 | ---------- | --------------------- | --------------------- |
-| 1 | Hoppscotch  | [Hoppscotch is a lightweight, web-based API development suite.](https://github.com/hoppscotch/hoppscotch)|
-| 2 | Postman  | [Postman is an API platform for building, testing and using APIs](https://www.postman.com/)|
-| 3 | RestAssured  | [Testing and validating REST services in Java](https://github.com/rest-assured/rest-assured)|
+| 1 | BitDive  | [Zero-code API testing for Java/Kotlin with automatic mock generation and traffic replay.](https://bitdive.io/)|
+| 2 | Hoppscotch  | [Hoppscotch is a lightweight, web-based API development suite.](https://github.com/hoppscotch/hoppscotch)|
+| 3 | Postman  | [Postman is an API platform for building, testing and using APIs](https://www.postman.com/)|
+| 4 | RestAssured  | [Testing and validating REST services in Java](https://github.com/rest-assured/rest-assured)|
 
 ## [Compatibility Testing](TestingDomains.md/#compatibility-testing)
 
