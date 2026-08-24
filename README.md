@@ -39,6 +39,7 @@ Have questions? Join us over [Slack](https://join.slack.com/t/keploy/shared_invi
 | 2 | Cucumber  | [Cucumber is a tool for running automated acceptance tests, written in plain language.](https://github.com/cucumber)|
 | 3 | Cypress  | [With Cypress create tests for your modern web applications, debug them visually, and automatically run them in your continuous integration builds](https://github.com/cypress-io/cypress)|
 | 4 | Playwright  | [Playwright is a framework for Web Testing and Automation.](https://github.com/microsoft/playwright)|
+| 5 | Optics Framework  | [Optics-framework is a self-healing test automation framework whose keyword engine runs the same tests over Appium, Selenium and Playwright, falling back across XPath, text, OCR and image locators when one breaks.](https://github.com/mozarkai/optics-framework)|
 
 ## [API Testing](TestingDomains.md/#api-testing)
 
@@ -77,6 +78,7 @@ Have questions? Join us over [Slack](https://join.slack.com/t/keploy/shared_invi
 | ---------- | --------------------- | --------------------- |
 | 1 | Appium  | [Appium is an open-source, cross-platform test automation tool for native, hybrid, mobile web and desktop apps.](https://github.com/appium/appium) |
 | 2 | Calabash  | [Calabash is a BDD framework for iOS and Android](https://github.com/calabash)|
+| 3 | Optics Framework  | [Optics-framework is an open-source self-healing test automation framework for native, hybrid and Smart TV apps, driven by plain CSV/YAML keyword tests over Appium.](https://github.com/mozarkai/optics-framework)|
 
 ## [Performance Testing](TestingDomains.md/#performance-testing)
 
