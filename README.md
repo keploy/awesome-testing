@@ -47,6 +47,8 @@ Have questions? Join us over [Slack](https://join.slack.com/t/keploy/shared_invi
 | 1 | Hoppscotch  | [Hoppscotch is a lightweight, web-based API development suite.](https://github.com/hoppscotch/hoppscotch)|
 | 2 | Postman  | [Postman is an API platform for building, testing and using APIs](https://www.postman.com/)|
 | 3 | RestAssured  | [Testing and validating REST services in Java](https://github.com/rest-assured/rest-assured)|
+| 4 | Invariant | [Open-source CLI engine to test payment webhook idempotency, queue race conditions, and DB state post-conditions](https://github.com/yavonalabs/invariant)|
+
 
 ## [Compatibility Testing](TestingDomains.md/#compatibility-testing)
 
