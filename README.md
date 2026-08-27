@@ -105,3 +105,4 @@ Have questions? Join us over [Slack](https://join.slack.com/t/keploy/shared_invi
 | Sr No | Tool Name |  Description with URL |
 | ---------- | --------------------- | --------------------- |
 | 1 | Puppeteer  | [A Node.js library for controlling headless Chrome browsers for UI testing.](https://github.com/puppeteer/puppeteer) |
+| 2 | Testudos | [UI and integration test automation for Qt applications with Python extensibility, scenario recording, CLI execution, embedded target support, and traceable test reporting.](https://testudos.io/) |
