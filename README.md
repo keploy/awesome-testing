@@ -52,7 +52,7 @@ Have questions? Join us over [Slack](https://join.slack.com/t/keploy/shared_invi
 
 | Sr No | Tool Name |  Description with URL |
 | ---------- | --------------------- | --------------------- |
-| 1 | LambdaTest  | [Perform live interactive cross browser testing of your public or locally hosted websites and web apps.](https://www.lambdatest.com/) |
+| 1 | TestMu AI (Formerly LambdaTest) | [Perform live interactive cross browser testing of your public or locally hosted websites and web apps.](https://www.testmuai.com) |
 | 2 | BrowserStack  | [A cloud-based cross-browser testing tool to test websites and mobile applications across various browsers and devices.](https://www.browserstack.com/)|
 | 3 | Sauce Labs  | [Test on thousands of different device, browser, and OS configurations–anywhere, any time.](https://saucelabs.com/)|
 
@@ -60,7 +60,7 @@ Have questions? Join us over [Slack](https://join.slack.com/t/keploy/shared_invi
 
 | Sr No | Tool Name |  Description with URL |
 | ---------- | --------------------- | --------------------- |
-| 1 | LambdaTest  | [Perform live interactive cross browser testing of your public or locally hosted websites and web apps.](https://www.lambdatest.com/) |
+| 1 | TestMu AI (Formerly LambdaTest) | [Perform live interactive cross browser testing of your public or locally hosted websites and web apps.](https://www.testmuai.com) |
 | 2 | BrowserStack  | [A cloud-based cross-browser testing tool to test websites and mobile applications across various browsers and devices.](https://www.browserstack.com/)|
 | 3 | Sauce Labs  | [Test on thousands of different device, browser, and OS configurations–anywhere, any time.](https://saucelabs.com/)|
 
