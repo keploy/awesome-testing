@@ -39,6 +39,7 @@ Have questions? Join us over [Slack](https://join.slack.com/t/keploy/shared_invi
 | 2 | Cucumber  | [Cucumber is a tool for running automated acceptance tests, written in plain language.](https://github.com/cucumber)|
 | 3 | Cypress  | [With Cypress create tests for your modern web applications, debug them visually, and automatically run them in your continuous integration builds](https://github.com/cypress-io/cypress)|
 | 4 | Playwright  | [Playwright is a framework for Web Testing and Automation.](https://github.com/microsoft/playwright)|
+| 5 | agent-qa | [Natural-language tests for web, Android, and iOS with advanced memidex memory and self-improvement; CLI, local dashboard, and MCP server.](https://github.com/vostride/agent-qa) |
 
 ## [API Testing](TestingDomains.md/#api-testing)
 
